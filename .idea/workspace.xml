@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90c1c79d-5328-471e-8c83-633ae517b63a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Example1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example1/helm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example1/helm/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example2/docker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example2/docker/assets/docker-entrypoint.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example2/docker/assets/docker-entrypoint.sh_bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example2/docker/assets/enable-jmx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example2/docker/assets/jmx-exporter-config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example2/docker/assets/merge.xslt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example2/helm/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example2/helm/test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/assets/docker-entrypoint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/assets/docker-entrypoint.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/assets/docker-entrypoint.sh_bak" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/assets/docker-entrypoint.sh_bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/assets/enable-jmx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/assets/enable-jmx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/assets/jmx-exporter-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/assets/jmx-exporter-config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/assets/merge.xslt" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/assets/merge.xslt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/.helmignore" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/.helmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/Chart.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/Chart.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/_helpers.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/_helpers.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/configmap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/configmap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/role-binding.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/role-binding.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/role.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/role.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/secrets.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/secrets.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/service-account.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/service-account.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/service-backup.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/service-backup.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/service-monitor.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/service-monitor.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/statefulset-backup.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/statefulset-backup.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/statefulset.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/statefulset.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/values.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helm/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/test/test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-823792245">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+          <entry key="LICENSE" value="1" />
+          <entry key="Makefile" value="1" />
+          <entry key="NOTES" value="1" />
+          <entry key="csv" value="1" />
+          <entry key="md" value="2" />
+          <entry key="py" value="2" />
+          <entry key="txt" value="1" />
+          <entry key="xslt" value="1" />
+          <entry key="yaml" value="4" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="2" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="38" />
+          <entry key="md" value="1581" />
+          <entry key="py" value="17" />
+          <entry key="txt" value="19" />
+          <entry key="yaml" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="1581" />
+          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="Python" value="17" />
+          <entry key="YAML" value="48" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-104">
+                <caret line="295" column="56" selection-start-line="295" selection-start-column="56" selection-end-line="295" selection-end-column="56" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Example2/helm/test/test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Example2/docker/assets/merge.xslt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Example2/helm/charts/artemis/values.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-757">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Example2/helm/charts/artemis/Chart.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Example1/helm/charts/artemis/templates/service.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Example1/docker/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2880">
+              <caret line="192" column="24" selection-start-line="192" selection-start-column="24" selection-end-line="192" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Example1/helm/charts/artemis/values.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="16" selection-start-line="5" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Example1/helm/test/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding>
+                <element signature="e#24#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/docker/NOTES.txt" />
+        <option value="$PROJECT_DIR$/helm/charts/artemis/values.yaml" />
+        <option value="$PROJECT_DIR$/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/helm/test/test.py" />
+        <option value="$PROJECT_DIR$/Example2/helm/values.yaml" />
+        <option value="$PROJECT_DIR$/Example2/helm/Chart.yaml" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="484" />
+    <option name="y" value="121" />
+    <option name="width" value="1223" />
+    <option name="height" value="791" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+              <item name="Example1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+              <item name="Example1" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+              <item name="Example1" type="462c0819:PsiDirectoryNode" />
+              <item name="helm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+              <item name="Example1" type="462c0819:PsiDirectoryNode" />
+              <item name="helm" type="462c0819:PsiDirectoryNode" />
+              <item name="charts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+              <item name="Example1" type="462c0819:PsiDirectoryNode" />
+              <item name="helm" type="462c0819:PsiDirectoryNode" />
+              <item name="charts" type="462c0819:PsiDirectoryNode" />
+              <item name="artemis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+              <item name="Example2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+              <item name="Example2" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+              <item name="Example2" type="462c0819:PsiDirectoryNode" />
+              <item name="helm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+              <item name="Example2" type="462c0819:PsiDirectoryNode" />
+              <item name="helm" type="462c0819:PsiDirectoryNode" />
+              <item name="charts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-amq-helm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-amq-helm" type="462c0819:PsiDirectoryNode" />
+              <item name="Example2" type="462c0819:PsiDirectoryNode" />
+              <item name="helm" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Example2/helm" />
+      <recent name="$PROJECT_DIR$/Example2/docker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Example2/helm/charts/artemis" />
+      <recent name="$PROJECT_DIR$/Example1" />
+      <recent name="$PROJECT_DIR$/docker" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90c1c79d-5328-471e-8c83-633ae517b63a" name="Default Changelist" comment="" />
+      <created>1641588631953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641588631953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="484" y="121" width="1223" height="791" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958402" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docker/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/tags.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/NOTES.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helm/charts/artemis/NOTES">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example1/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="192" column="24" selection-start-line="192" selection-start-column="24" selection-end-line="192" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helm/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example1/helm/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example1/helm/charts/artemis/templates/service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example2/docker/assets/merge.xslt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example1/helm/charts/artemis/values.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example2/helm/charts/artemis/values.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-757">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example2/helm/charts/artemis/Chart.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-104">
+            <caret line="295" column="56" selection-start-line="295" selection-start-column="56" selection-end-line="295" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example2/helm/test/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -2,8 +2,8 @@ replicaCount: 1
 
 image:
 ## repository and image tag are required
-  repository: <dockerhub username>/activemq-artemis
-  tag: 2.20-latest
+  repository: rubelw/activemq-artemis
+  tag: 2.20.15-latest
   pullPolicy: Always
 
 
@@ -23,7 +23,7 @@ resources:
 javaOpts: ""
 
 persistence:
-  enabled: false
+  enabled: true
   accessModes:
     - ReadWriteOnce
   storageSize: 8Gi
@@ -73,7 +73,7 @@ clustering:
 
 ha:
   ## ha.enabled if `true` a second stateful set running backups will be installed
-  enabled: false
+  enabled: true
   ## ha.live settings for live servers. Key, values are automatically expanded
   live: {}
   ## ha.backup settings for backup servers. Key, values are automatically expanded

@@ -13,7 +13,7 @@ class MyListener(stomp.ConnectionListener):
 
 username='artemis'
 password='artemis'
-host='<EXTERNAL IP>'
+host='10.96.47.204'
 port=61616
 conn = stomp.Connection([(host,port)])
 conn.set_listener('',MyListener())
