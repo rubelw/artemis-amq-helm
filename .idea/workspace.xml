@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90c1c79d-5328-471e-8c83-633ae517b63a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Example1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example1/helm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example1/helm/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example2/docker/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example2/docker/assets/docker-entrypoint.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example2/docker/assets/docker-entrypoint.sh_bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example2/docker/assets/enable-jmx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example2/docker/assets/jmx-exporter-config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example2/docker/assets/merge.xslt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example2/helm/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example2/helm/test/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/assets/docker-entrypoint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/assets/docker-entrypoint.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/assets/docker-entrypoint.sh_bak" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/assets/docker-entrypoint.sh_bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/assets/enable-jmx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/assets/enable-jmx.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/assets/jmx-exporter-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/assets/jmx-exporter-config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/assets/merge.xslt" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/docker/assets/merge.xslt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/.helmignore" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/.helmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/Chart.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/Chart.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/_helpers.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/_helpers.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/configmap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/configmap.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/role-binding.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/role-binding.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/role.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/role.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/secrets.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/secrets.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/service-account.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/service-account.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/service-backup.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/service-backup.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/service-monitor.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/service-monitor.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/statefulset-backup.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/statefulset-backup.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/templates/statefulset.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/templates/statefulset.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/charts/artemis/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/charts/artemis/values.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helm/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Example1/helm/test/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +45,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Dockerfile" value="38" />
-          <entry key="md" value="1581" />
+          <entry key="md" value="1606" />
           <entry key="py" value="17" />
           <entry key="txt" value="19" />
           <entry key="yaml" value="48" />
@@ -88,7 +53,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1581" />
+          <entry key="Markdown" value="1606" />
           <entry key="PLAIN_TEXT" value="57" />
           <entry key="Python" value="17" />
           <entry key="YAML" value="48" />
@@ -98,21 +63,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-104">
-                <caret line="295" column="56" selection-start-line="295" selection-start-column="56" selection-end-line="295" selection-end-column="56" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Example2/helm/test/test.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -159,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Example1/helm/charts/artemis/values.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-end-line="6" />
+            <state relative-caret-position="-1357">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -198,6 +167,7 @@
         <option value="$PROJECT_DIR$/helm/test/test.py" />
         <option value="$PROJECT_DIR$/Example2/helm/values.yaml" />
         <option value="$PROJECT_DIR$/Example2/helm/Chart.yaml" />
+        <option value="$PROJECT_DIR$/Example2/helm/test/test.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -419,13 +389,6 @@
     <entry file="file://$PROJECT_DIR$/Example2/docker/assets/merge.xslt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Example1/helm/charts/artemis/values.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Example2/helm/charts/artemis/values.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-757">
@@ -440,18 +403,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Example2/helm/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example1/helm/charts/artemis/values.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1357">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-104">
-            <caret line="295" column="56" selection-start-line="295" selection-start-column="56" selection-end-line="295" selection-end-column="56" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Example2/helm/test/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

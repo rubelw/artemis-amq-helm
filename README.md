@@ -5,7 +5,9 @@ Example Artemis 2.20 docker build and helm deployment locally using minikube
 
 ## Based on:
 * https://github.com/vromero/activemq-artemis-docker
-* https://github.com/deviceinsight/activemq-artemis-helm
+* (Example 1) https://github.com/deviceinsight/activemq-artemis-helm
+* (Example 2) https://github.com/vromero/activemq-artemis-helm
+
 
 ## Prerequisites
 1. minikube installed
