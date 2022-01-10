@@ -213,10 +213,11 @@ kubectl exec --stdin --tty amq-artemis-0 -- /bin/bash
 ```bash
 helm uninstall amq
 ```
+\
 &nbsp;
+\
 &nbsp;
-&nbsp;
-&nbsp;
+\
 &nbsp;
 # Example 2 - Deploy helm 
 
